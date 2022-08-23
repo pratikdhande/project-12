@@ -1,7 +1,7 @@
 # Business WebPage Design
 
  Hello, My name is __Pratik Dhande__
-I created this website using Html and Css. It's my 13th project given as an assignment in **_Full Stack Web Dev Bootcamp  Live Class_**. 
+I created this website using Html and Css. It's my 12th project given as an assignment in **_Full Stack Web Dev Bootcamp  Live Class_**. 
 
 ## Live link
 
